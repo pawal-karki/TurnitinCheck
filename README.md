@@ -12,6 +12,9 @@ AI and plagiarism detection web application built with Next.js. Upload documents
 - Check history with filtering
 
 ## Getting Started
+<img width="1879" height="913" alt="image" src="https://github.com/user-attachments/assets/cdc2c6fc-323c-47c2-a9f7-5fd219a80c98" />
+<img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/2adac7f0-f162-4a68-9d66-5917d34a234d" />
+<img width="1890" height="901" alt="image" src="https://github.com/user-attachments/assets/1b3e0d67-40ef-4268-bac6-ebd480c34ab7" />
 
 ### Prerequisites
 
